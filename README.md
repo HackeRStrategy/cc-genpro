@@ -12,3 +12,7 @@
 <li>git clone https://github.com/RealStrategy/cc-genpro </li>
 <li>cd cc-genpro </li>
 <li>python2 cc-genpro.py </li>
+
+***
+DEMO WEB - [Open Here](https://realstrategy.github.io/CC-GENPRO/)
+
